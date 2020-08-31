@@ -1,7 +1,7 @@
 # Etch-a-Sketch
 
 
-An Etch a Sketch app provided as an exercise from a [WesBos\` course](https://wesbos.com/courses). Idea, style, code - all credits to him - that`s just my take on the javascript code - still pending the animation effects
+An Etch a Sketch app provided as an exercise from a [WesBos\` course](https://wesbos.com/courses). Idea, style, code - all credits to him - that`s just my take on the javascript code - ~~still pending the animation effects~~
 
 
 ## Installation
