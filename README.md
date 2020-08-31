@@ -9,8 +9,8 @@ An etch a sketch app provided as an exercise from a [WesBos course](https://wesb
 Nothing is required but your browser. Download and have fun!
 
 ## Usage
-<kbd>↑</kbd>: draw a line upwards starting from the cursor position on canvas
-<kbd>←</kbd>: draw a line leftwards starting from the cursor position on canvas
-<kbd>↓</kbd>: draw a line downwards starting from the cursor position on canvas
-<kbd>→</kbd>: draw a line rightwards starting from the cursor position on canvas 
+<kbd>↑</kbd>: draw a line upwards starting from the cursor position on canvas<br/>
+<kbd>←</kbd>: draw a line leftwards starting from the cursor position on canvas<br/>
+<kbd>↓</kbd>: draw a line downwards starting from the cursor position on canvas<br/>
+<kbd>→</kbd>: draw a line rightwards starting from the cursor position on canvas <br/>
 Click on the <kbd>Shake</kbd> button to erase the canvas
