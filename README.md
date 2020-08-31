@@ -1,4 +1,5 @@
-#Etch-a-Sketch
+# Etch-a-Sketch
+
 
 An etch a sketch app provided as an exercise from a [WesBos course](https://wesbos.com/courses). Idea, style. code - all credits to him - that`s just my take on the javascript part - still pending the animation effects
 
