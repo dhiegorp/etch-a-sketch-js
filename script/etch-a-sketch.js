@@ -30,10 +30,6 @@ const init = context => {
     context.moveTo(x, y);
     context.lineTo(x, y);
     context.stroke();
-    canvas.addEventListener('animationend', (event) => {
-        console.log('activated');
-        event.target.classList.remove('shake');
-    });
 }
 
 /* draws a line given a arrow key to set position */
@@ -95,7 +91,13 @@ function handleKey(event) {
 /* clear the canvas */
 const clearScreen = () => {
     canvas.classList.add('shake');
-    context.clearRect(0, 0, canvas.width, canvas.height);
+    context.clearRect(0, 0, width, height);
+    canvas.addEventListener('animationend', () => {
+        canvas.classList.remove('shake');
+    },
+        { once: true }
+    );
+
 }
 
 /* handle the 'shake'button */
